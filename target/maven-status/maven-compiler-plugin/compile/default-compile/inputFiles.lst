@@ -1,11 +1,5 @@
-/Users/kook/workspaces/javawork/server/DataCore/src/main/java/com/lotus/jewel/data/sqlSession/SqlSessionFactoryAdaptor.java
-/Users/kook/workspaces/javawork/server/DataCore/src/main/java/test/model/TestModel.java
-/Users/kook/workspaces/javawork/server/DataCore/src/main/java/test/SqlSessionTest.java
-/Users/kook/workspaces/javawork/server/DataCore/src/main/java/test/PropertiesLoadTest.java
-/Users/kook/workspaces/javawork/server/DataCore/src/main/java/com/lotus/jewel/data/main/DataCoreMain.java
-/Users/kook/workspaces/javawork/server/DataCore/src/main/java/com/lotus/jewel/data/exception/DataCoreException.java
-/Users/kook/workspaces/javawork/server/DataCore/src/main/java/test/SQLitePreparedStatementAdaptorTest.java
-/Users/kook/workspaces/javawork/server/DataCore/src/main/java/com/lotus/jewel/data/sqliteAdaptor/SQLitePreparedStatementAdaptor.java
-/Users/kook/workspaces/javawork/server/DataCore/src/main/java/com/lotus/jewel/data/sqlSession/SqlSessionAdaptor.java
-/Users/kook/workspaces/javawork/server/DataCore/src/main/java/test/SqlFileParseTest.java
-/Users/kook/workspaces/javawork/server/DataCore/src/main/java/com/lotus/jewel/data/util/SqlUtil.java
+/Users/kook/workspaces/javawork/union/CommandInterface/src/main/java/com/lotus/jewel/ci/servlet/BasicHttpServlet.java
+/Users/kook/workspaces/javawork/union/CommandInterface/src/main/java/com/lotus/jewel/ci/main/CommandInterfaceMain.java
+/Users/kook/workspaces/javawork/union/CommandInterface/src/main/java/test/PropertiesLoadTest.java
+/Users/kook/workspaces/javawork/union/CommandInterface/src/main/java/com/lotus/jewel/ci/exception/CommandInterfaceException.java
+/Users/kook/workspaces/javawork/union/CommandInterface/src/main/java/com/lotus/jewel/ci/client/BasicClient.java

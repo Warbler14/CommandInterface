@@ -18,12 +18,12 @@ public class PropertiesLoadTest {
 		try {
 			config = new PropertiesConfiguration(properties);
 			
-//			String dataType = config.getString("data.type");
-//				
-//			System.out.println("\n dtaType " + dataType);
-//				
-//			config.setProperty("colors.background", "#000000");
-//			((PropertiesConfiguration)config).save();
+			String dataType = config.getString("data.type");
+				
+			System.out.println("\n dtaType " + dataType);
+				
+			config.setProperty("colors.background", "#000000");
+			((PropertiesConfiguration)config).save();
 			
 		} catch (ConfigurationException e) {
 			e.printStackTrace();

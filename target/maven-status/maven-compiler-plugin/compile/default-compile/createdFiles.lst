@@ -1,11 +1,5 @@
-test/SqlSessionTest.class
-com/lotus/jewel/data/sqliteAdaptor/SQLitePreparedStatementAdaptor.class
-com/lotus/jewel/data/main/DataCoreMain.class
-com/lotus/jewel/data/sqlSession/SqlSessionFactoryAdaptor.class
-com/lotus/jewel/data/exception/DataCoreException.class
-test/model/TestModel.class
-com/lotus/jewel/data/util/SqlUtil.class
-com/lotus/jewel/data/sqlSession/SqlSessionAdaptor.class
-test/SqlFileParseTest.class
+com/lotus/jewel/ci/client/BasicClient.class
+com/lotus/jewel/ci/exception/CommandInterfaceException.class
 test/PropertiesLoadTest.class
-test/SQLitePreparedStatementAdaptorTest.class
+com/lotus/jewel/ci/main/CommandInterfaceMain.class
+com/lotus/jewel/ci/servlet/BasicHttpServlet.class
